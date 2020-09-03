@@ -22,7 +22,7 @@ export default function HomeScreen({ navigation }) {
          <Card>
            <CardItem>
              <Body>
-               <Text>Chat App to talk some awesome people!</Text>
+               <Text>FitNoice</Text>
              </Body>
            </CardItem>
          </Card>
