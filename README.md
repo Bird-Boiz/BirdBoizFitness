@@ -10,7 +10,7 @@
   2. run `npm install`
 
 ## Starting The App
-  `expo start`
+  `expo start` or `npm start`
 
 ## Used Frameworks
   - [Native Base](https://docs.nativebase.io/)
